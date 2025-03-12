@@ -4,7 +4,6 @@ This is a simple library for generating Pulse Width Modulation (PWM) signals on 
 
 ## Features
 - Generate PWM signals with configurable frequency and duty cycle.
-- Efficiently manage signal generation with a simple interface.
 - Non-blocking: The `loop()` function should be called continuously in the main loop to keep the PWM signal running.
 
 ## Installation
