@@ -6,10 +6,6 @@ This is a simple library for generating Pulse Width Modulation (PWM) signals on 
 - Generate PWM signals with configurable frequency and duty cycle.
 - Non-blocking: The `loop()` function should be called continuously in the main loop to keep the PWM signal running.
 
-## Installation
-
-...
-
 ## Example Usage
 
 Below is an example of how to use the `PWM` library in your Arduino sketch.

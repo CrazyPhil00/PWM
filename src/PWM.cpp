@@ -1,5 +1,5 @@
-#include <Arduno.h>
-#include "include/PWM.h"
+#include <Arduino.h>
+#include <PWM.h>
 
 /// Generates a PWM signal based on the set frequency and dutycylce.
 /// This function must be called continuously within the loop without interruption to maintain consistent signal generation.
