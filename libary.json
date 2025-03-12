@@ -1,0 +1,20 @@
+{
+  "name": "PWM",
+  "version": "1.0.0",
+  "description": "A simple library to generate PWM signals with configurable frequency and duty cycle.",
+  "keywords": "PWM, Blink",
+  "repository":
+  {
+    "type": "git",
+    "url": ""
+  },
+  "authors":
+  [
+    {
+      "name": "CrazyPhil"
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "*",
+  "platforms": "*"
+}
